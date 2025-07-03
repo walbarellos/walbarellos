@@ -9,7 +9,7 @@ on:
 jobs:
   # https://github.com/lowlighter/metrics/blob/master/source/plugins/lines/README.md
   code-lines-metrics:
-    runs-on: ubuntu-latest
+    runs-on: tumbleweed-latest
     steps:
       - uses: lowlighter/metrics@latest
         with:
