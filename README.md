@@ -1,53 +1,87 @@
-<div align="center">
-    <img width=300 src="./assets/main.gif"/>    
-    <br/>
-    <br/>
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=false&width=600&height=60&lines=Greetings%2C+wanderer!+I'm+walbarello!" alt="Typing SVG" />
-    </a>
-</div>
+<!-- README.md para github.com/walbarellos -->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Sponsor-%F0%9F%92%AA-red?style=for-the-badge" alt="Sponsor" />
+  <a href="https://github.com/sponsors/walbarellos"><img src="https://img.shields.io/github/followers/walbarellos?label=Seguidores&style=for-the-badge" /></a>
+</p>
+
+---
+
+# 🌀 Willian Albarello — *Códice Vivo entre Sistemas e Escrituras*
+
+> Desenvolvedor full-stack orientado por simbolismo, ordem e propósito.  
+> Fundador do **Método Caracol**: espiral viva de refinamento contínuo através de Sabedoria, Força e Beleza.
+
+---
+
+## 🧙 Quem sou eu
+
+- 🧩 Autodidata com trajetória por **C**, **C++**, **Assembly**, **Python**, **TypeScript**, **React**, **Godot**, **FastAPI**...
+- 🌀 Crio sistemas complexos com *significado*, não só com código.
+- 🛡️ Defensor de uma computação ética, simbólica e de alto impacto.
+- 🧬 Estudioso do **CTMU**, da Kabbalah, da Engenharia de Sommerville e de sistemas vivos.
+
+---
+
+## 🔭 Projetos em Destaque
+
+| Nome | Descrição | Tech |
+|------|-----------|------|
+| [ERP Caracol-Sommerville](https://github.com/walbarellos/Erp-Caracol) | ERP modular com FastAPI e React, orientado por simbologia viva. | `FastAPI`, `PostgreSQL`, `Tauri` |
+| [URBZ Token](https://github.com/walbarellos/URBZ-Token) | Tokenização urbana para regeneração de bairros e comércio local. | `React`, `Tailwind`, `Design Ético` |
+| [SUS Survival Club](https://github.com/walbarellos/sus-survival) | Jogo em pixel art cômico sobre sobrevivência na fila do SUS. | `Godot 4.x`, `PixelArt`, `Simulação` |
+| [Pedra (Narrativa Simbólica)](https://github.com/walbarellos/text-game) | Jogo interativo moral sobre escolhas e ciclos internos. | `HTML`, `JSON`, `JS`, `HUD simbólica` |
+
+---
+
+## 📜 Filosofia de Desenvolvimento
+
+```text
+↪ Cada sistema que construo é um pequeno templo.
+↪ Cada variável carrega um símbolo.
+↪ Cada commit é uma oferenda à Ordem.
+```
+
+- Código limpo não é luxo: é *respeito à mente futura* que o lerá.
+- Interfaces devem **comunicar** simbolicamente, não apenas "funcionar".
+- Contribuo para um mundo mais digno com ferramentas de verdade.
+
+---
+
+## 🌐 Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Willian_Albarello-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willian-albarello-b96361103)  
+[![QOTO](https://img.shields.io/badge/Mastodon-%40wepiphany%40qoto.org-purple?style=flat&logo=mastodon&logoColor=white)](https://qoto.org/@wepiphany)  
+[![Portfólio](https://img.shields.io/badge/Portfólio-Paper.netlify.app-111111?style=flat&logo=netlify&logoColor=white)](https://walbarellos-paper.netlify.app)  
+[![Dev.to](https://img.shields.io/badge/Dev.to-%40walbarello-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/walbarello)  
+
+---
+
+## 🙏 Sponsor me
+
+> *Não estou aqui para vender cursos ou coletar seus dados — apenas para construir ferramentas úteis com dignidade.*  
+> Se gostou do que faço, considere patrocinar:
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-%F0%9F%92%AA-red?style=for-the-badge)](https://github.com/sponsors/walbarellos)
 
 ---
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/walbarello/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" /></a>
-  <a href="https://dev.to/walbarellos"><img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=0A0209" /></a>
-  <a href="https://dev-walbarello.netlify.app//"><img src="https://img.shields.io/badge/portfolio-d5d5d5?style=for-the-badge&logo=Portfolio&logoColor=0A0209" /></a>
-  <a href="mailto:willianalbarellos@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
-</div>
+## 🛠️ Skills
 
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=walbarellos&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
----
-## 🔥 My socials
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/walbarello/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://dev.to/walbarellos"><img src="https://img.shields.io/badge/Dev.to-black?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
-  <a href="https://dev-walbarello.netlify.app"><img src="https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-  <a href="mailto:willianalbarellos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</div>
+```text
+🧠 Linguagens: C · C++ · Assembly · Python · TypeScript · Bash · HTML · CSS · SQL
+🧱 Frameworks: FastAPI · React · Tailwind · Godot · Jinja2 · Tauri · Node.js
+🧬 Arquitetura: Microserviços · Event-Driven · Clean Arch · ECS Engine Design
+📦 Banco de dados: PostgreSQL · SQLite · Redis
+⚙️ Ferramentas: Git · Docker · Make · Alembic · ESLint · Vim · Kitty Terminal
+🧙 Filosofia: Método Caracol · Sommerville · CTMU · Judaísmo Simbólico
+```
 
 ---
 
-## 🤝 Sponsor me
+## 🏆 Conquistas (emblemas simbólicos)
 
-> I'm not here to sell courses or collect your data — just building useful tools with dignity. If you like what I build, consider helping.
-
-<a href="https://github.com/sponsors/walbarellos">
-  <img src="https://img.shields.io/badge/sponsor-d5d5d5?style=for-the-badge&logo=GitHub-Sponsors&logoColor=0A0209" />
-</a>
-
----
-
-## 🐍 Snake Contribution Graph
-
-![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<p align="center">
+  <img src="https://github.com/walbarellos.png" width="100" /><br />
+  🧭 Caminhante entre mundos · 👁 Vidente do Código · 🧱 Construtor de Pontes
+</p>
