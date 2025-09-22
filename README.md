@@ -21,15 +21,27 @@
 - 🛡️ Defensor de uma computação ética, simbólica e de alto impacto.
 - 🧬 Hacker Ético/White Hat
 ---
-
 ## 🔭 Projetos em Destaque
 
 | Nome | Descrição | Tech |
 |------|-----------|------|
-| [ERP Caracol-Sommerville](https://github.com/walbarellos/Erp-Caracol) | ERP modular com FastAPI e React, orientado por simbologia viva. | `FastAPI`, `PostgreSQL`, `Tauri` |
-| [URBZ Token](https://github.com/walbarellos/URBZ-Token) | Tokenização urbana para regeneração de bairros e comércio local. | `React`, `Tailwind`, `Design Ético` |
-| [SUS Survival Club](https://github.com/walbarellos/sus-survival) | Jogo em pixel art cômico sobre sobrevivência na fila do SUS. | `Godot 4.x`, `PixelArt`, `Simulação` |
-| [Pedra (Narrativa Simbólica)](https://github.com/walbarellos/text-game) | Jogo interativo moral sobre escolhas e ciclos internos. | `HTML`, `JSON`, `JS`, `HUD simbólica` |
+| [Currículo Landing Page](https://github.com/walbarellos/curriculum-landing) | Site de currículo interativo para desenvolvedores e freelancers. | HTML, Tailwind, Responsivo |
+| [Shomer OSINT](https://github.com/walbarellos/shomer-OSINT) | Ferramenta para análise e vigilância ética de comentários públicos. | FastAPI, SQLite, JSON, Coleta OSINT |
+
+| [Pedra (Narrativa Simbólica)](https://github.com/walbarellos/text-game) | Jogo narrativo moral com builds introspectivos e HUD simbólica. | HTML, JSON, Vanilla JS |
+| [wAEngine (Game ECS Engine)](https://github.com/walbarellos/wAEngine) | Engine experimental baseada em ECS, voltada a jogos 2D com máxima performance. | C++, ECS, SFML |
+
+| [ERP Caracol](https://github.com/walbarellos/Erp-Caracol) | ERP modular orientado por simbologia viva, com stack moderno e visão ética. | FastAPI, PostgreSQL, React, Tauri |
+| [Nails Designer (sistema web)](https://github.com/walbarellos/nails-designer) | Sistema de agendamento e gestão para designers de unhas. | JS, LocalStorage, Frontend puro |
+
+| [AutoAgent](https://github.com/walbarellos/AutoAgent) | Agente local automatizador para tarefas com GPT em Python. | Python, CLI, Automações |
+| [Llama On The Brows](https://github.com/walbarellos/Llama-On-The-Brows) | Projeto com LLaMA embarcado em browser. | JS, WebLLM, AI no navegador |
+
+| [Acre Licitações](https://github.com/walbarellos/Acre-Processos-Licitatorios) | Ferramenta para análise de dados de licitação no estado do Acre. | Python, Scraping, Dados Públicos |
+
+| [HTML2MD](https://github.com/walbarellos/HTML2MD) | Conversor leve e local de HTML para Markdown. | Python, Regex |
+| [YouTube Transcript](https://github.com/walbarellos/Youtube-Transcript) | Transcrição e análise rápida de vídeos do YouTube. | Python, API, NLP |
+| [Free QR Code](https://github.com/walbarellos/free-qr-code) | Gerador de QR Codes offline, gratuito e personalizável. | JS, HTML5, Frontend leve |
 
 ---
 
