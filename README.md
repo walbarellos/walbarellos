@@ -21,6 +21,7 @@
 - 🛡️ Defensor de uma computação ética, simbólica e de alto impacto.
 - 🧬 Hacker Ético/White Hat
 ---
+
 ## 🔭 Projetos em Destaque
 
 | Nome | Descrição | Tech |
@@ -37,7 +38,6 @@
 | [HTML2MD](https://github.com/walbarellos/HTML2MD) | Conversor leve e local de HTML para Markdown. | Python, Regex |
 | [YouTube Transcript](https://github.com/walbarellos/Youtube-Transcript) | Transcrição e análise rápida de vídeos do YouTube. | Python, API, NLP |
 | [Free QR Code](https://github.com/walbarellos/free-qr-code) | Gerador de QR Codes offline, gratuito e personalizável. | JS, HTML5, Frontend leve |
-
 ---
 
 ## 📜 Filosofia de Desenvolvimento
