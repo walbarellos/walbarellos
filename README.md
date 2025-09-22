@@ -10,7 +10,7 @@
 # 🌀 Willian Albarello — *Códice Vivo entre Sistemas e Escrituras*
 
 > Desenvolvedor full-stack orientado por simbolismo, ordem e propósito.  
-> Fundador do **Método Caracol**: espiral viva de refinamento contínuo através de Sabedoria, Força e Beleza.
+> Adépto do **Método Caracol**: espiral viva de refinamento contínuo através de Sabedoria, Força e Beleza.
 
 ---
 
