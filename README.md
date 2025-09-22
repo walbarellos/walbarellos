@@ -16,11 +16,10 @@
 
 ## 🧙 Quem sou eu
 
-- 🧩 Autodidata com trajetória por **C**, **C++**, **Assembly**, **Python**, **TypeScript**, **React**, **Godot**, **FastAPI**...
+- 🧩 Autodidata neurodivergente com trajetória por **C**, **C++**, **Assembly**, **Python**, **TypeScript**, **React**, **Ruby**, **FastAPI**...
 - 🌀 Crio sistemas complexos com *significado*, não só com código.
 - 🛡️ Defensor de uma computação ética, simbólica e de alto impacto.
-- 🧬 Estudioso do **CTMU**, da Kabbalah, da Engenharia de Sommerville e de sistemas vivos.
-
+- 🧬 Hacker Ético/White Hat
 ---
 
 ## 🔭 Projetos em Destaque
@@ -69,12 +68,12 @@
 ## 🛠️ Skills
 
 ```text
-🧠 Linguagens: C · C++ · Assembly · Python · TypeScript · Bash · HTML · CSS · SQL
-🧱 Frameworks: FastAPI · React · Tailwind · Godot · Jinja2 · Tauri · Node.js
+🧠 Linguagens: C · C++ · Assembly · Python · TypeScript · Bash · HTML · CSS · SQL · Ruby
+🧱 Frameworks: FastAPI · React · Tailwind · Godot · Jinja2 · Tauri · Node.js · Rails · Web2py · Django
 🧬 Arquitetura: Microserviços · Event-Driven · Clean Arch · ECS Engine Design
-📦 Banco de dados: PostgreSQL · SQLite · Redis
+📦 Banco de dados: PostgreSQL · SQLite · Redis · Cassandra
 ⚙️ Ferramentas: Git · Docker · Make · Alembic · ESLint · Vim · Kitty Terminal
-🧙 Filosofia: Método Caracol · Sommerville · CTMU · Judaísmo Simbólico
+🧙 Filosofia: Método Caracol · Sommerville
 ```
 
 ---
