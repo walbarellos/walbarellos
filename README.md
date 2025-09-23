@@ -66,7 +66,7 @@
 [![Sponsor](https://img.shields.io/badge/Sponsor-%F0%9F%92%AA-red?style=for-the-badge)](https://github.com/sponsors/walbarellos)
 
 ---
-
+[![My Skills](https://skillicons.dev/icons?i=react,ts,js,laravel,php,wordpress,mysql,redis,docker,aws,github,git,vite,webpack,npm,nextjs,nodejs,redux,jest,html,css,tailwind,figma,postman&perline=11)](#)
 ## 🛠️ Skills
 
 ```text
