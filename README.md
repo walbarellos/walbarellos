@@ -6,7 +6,8 @@
 </p>
 
 ---
-<img alt="Hi, I'm Willian Albarello" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi...I'm%20Brandon%20Estrella" style="width: 100%;" />
+[<img alt="Hi, I'm Willian Albarello" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi...I'm%20Brandon%20Estrella" style="width: 100%;" />
+](https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=Hi,%20I'm%20Willian%20Albarello.&reversal=false&section=header&textBg=false&fontAlign=50&fontColor=black)
 
 # 🌀 Willian Albarello — *Códice Vivo entre Sistemas e Escrituras*
 
