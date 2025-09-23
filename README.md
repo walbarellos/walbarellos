@@ -76,7 +76,7 @@
 ⚙️ Ferramentas: Git · Docker · Make · Alembic · ESLint · Vim · Kitty Terminal
 🧙 Filosofia: Método Caracol · Sommerville
 ```
-[![My Skills](https://skillicons.dev/icons?i=react,ts,js,laravel,php,wordpress,mysql,redis,docker,aws,github,git,vite,webpack,npm,nextjs,nodejs,redux,C,C++,ruby,python,django,rails,jest,html,css,tailwind,figma,postman&perline=11)](#)
+[![My Skills](https://skillicons.dev/icons?i=react,ts,js,laravel,php,wordpress,mysql,redis,docker,aws,github,git,vite,webpack,npm,nextjs,nodejs,redux,c,cs,cpp,ruby,py,django,vim,regex,rails,jest,html,css,tailwind,figma,bsd,,arch,,postman&perline=11)](#)
 ---
 
 ## 🏆 Conquistas (emblemas simbólicos)
