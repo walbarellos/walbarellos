@@ -1,9 +1,7 @@
 <!-- README.md para github.com/walbarellos -->
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Sponsor-%F0%9F%92%AA-red?style=for-the-badge" alt="Sponsor" />
-  <a href="https://github.com/sponsors/walbarellos"><img src="https://img.shields.io/github/followers/walbarellos?label=Seguidores&style=for-the-badge" /></a>
-</p>
+![Hi, I'm Willian Albarello.](https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=Hi,%20I'm%20Willian%20Albarello.&reversal=false&section=header&textBg=false&fontAlign=50&fontColor=black)
+
 
 https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=Hi,%20I'm%20Willian%20Albarello.&reversal=false&section=header&textBg=false&fontAlign=50&fontColor=black
 
