@@ -6,6 +6,7 @@
 </p>
 
 ---
+<img alt="Hi, I'm Willian Albarello" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi...I'm%20Brandon%20Estrella" style="width: 100%;" />
 
 # 🌀 Willian Albarello — *Códice Vivo entre Sistemas e Escrituras*
 
