@@ -2,10 +2,7 @@
 
 ![Hi, I'm Willian Albarello.](https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=Hi,%20I'm%20Willian%20Albarello.&reversal=false&section=header&textBg=false&fontAlign=50&fontColor=black)
 
-
-https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=Hi,%20I'm%20Willian%20Albarello.&reversal=false&section=header&textBg=false&fontAlign=50&fontColor=black
-
-# 🌀 Willian Albarello — *Códice Vivo entre Sistemas e Escrituras*
+# 🌀 *Códice Vivo entre Sistemas e Escrituras*
 
 > Desenvolvedor full-stack orientado por simbolismo, ordem e propósito.  
 > Adépto do **Método Caracol**: espiral viva de refinamento contínuo através de Sabedoria, Força e Beleza.
