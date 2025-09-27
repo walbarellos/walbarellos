@@ -21,6 +21,7 @@
 
 | Nome | Descrição | Tech |
 |------|-----------|------|
+| [Godot Asset Mapper](https://github.com/walbarellos/Godot-Asset-Mapper) | Godot Asset Mapper é um script em Python que faz scraping da Godot Asset Library | Python, .JSON, .txt |
 | [Acre Licitações](https://github.com/walbarellos/Acre-Processos-Licitatorios) | Ferramenta para análise de dados de licitação no estado do Acre. | Python, Scraping, Dados Públicos |
 | [HTML2MD](https://github.com/walbarellos/HTML2MD) | Conversor leve e local de HTML para Markdown. | Python, Regex |
 | [YouTube Transcript](https://github.com/walbarellos/Youtube-Transcript) | Transcrição e análise rápida de vídeos do YouTube. | Python, API, NLP |
