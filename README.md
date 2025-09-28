@@ -21,6 +21,7 @@
 
 | Nome | Descrição | Tech |
 |------|-----------|------|
+| [GitHub Unfollow Manager GUI](https://github.com/walbarellos/github-unfollow-gui) | Ferramenta web para visualizar, filtrar e dar unfollow seletivo em contas que não seguem de volta, com interface bonita e logs de auditoria. | Python, Flask, Bootstrap, API GitHub |
 | [Godot Asset Mapper](https://github.com/walbarellos/Godot-Asset-Mapper) | Godot Asset Mapper é um script em Python que faz scraping da Godot Asset Library | Python, Scraping, .JSON |
 | [Acre Licitações](https://github.com/walbarellos/Acre-Processos-Licitatorios) | Ferramenta para análise de dados de licitação no estado do Acre. | Python, Scraping, Dados Públicos |
 | [HTML2MD](https://github.com/walbarellos/HTML2MD) | Conversor leve e local de HTML para Markdown. | Python, Regex |
