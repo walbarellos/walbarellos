@@ -1,10 +1,8 @@
-<!-- README.md para github.com/walbarellos -->
-
 ![Hi, I'm Willian Albarello.](https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=Hi,%20I'm%20Willian%20Albarello.&reversal=false&section=header&textBg=false&fontAlign=50&fontColor=black)
 
 # 🌀 *Códice Vivo entre Sistemas e Escrituras*
 
-> Desenvolvedor full-stack orientado por simbolismo, ordem e propósito.  
+> Desenvolvedor full-stack orientado por simbolismo, ordem e propósito.
 > Adépto do **Método Caracol**: espiral viva de refinamento contínuo através de Sabedoria, Força e Beleza.
 
 ---
@@ -15,6 +13,99 @@
 - 🌀 Crio sistemas complexos com *significado*, não só com código.
 - 🛡️ Defensor de uma computação ética, simbólica e de alto impacto.
 - 🧬 Hacker Ético/White Hat
+
+---
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=walbarellos&label=Profile%20views&color=0e75b6&style=flat" alt="walbarellos" /> </p>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&width=435&lines=Hi%2C+I'm+Willian+Albarello;I'm+from+Brazil;Software+Engineer;Cybersecurity+enthusiast;Agente+CLI+Ohr" alt="Typing SVG" />
+  </a>
+</div>
+
+---
+
+<h2 align="center">Languages and Tools:</h2>
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96"> 
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" width="65" height="65" alt="Django" />
+      <br>Django
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" alt="Nodejs" />
+      <br>AWS
+    </td>              
+ </tr>
+</table>
+</div>
+
+---
+
+<div align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" 
+      srcset="https://github-readme-stats.vercel.app/api?username=walbarellos&theme=tokyonight&layout=compact&show_icons=true&count_private=true&hide_border=true&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9&bg_color=0d1117">
+        <source media="(prefers-color-scheme: light)" 
+      srcset="https://github-readme-stats.vercel.app/api?username=walbarellos&layout=compact&show_icons=true&count_private=true&hide_border=true&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9&bg_color=ffffff">
+        <img width="49%" height="auto" 
+      src="https://github-readme-stats.vercel.app/api?username=walbarellos&theme=tokyonight&layout=compact&show_icons=true&count_private=true&hide_border=true&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9&bg_color=0d1117" 
+      alt="Estatísticas do GitHub">
+  </picture>
+  
+    <picture>
+        <source media="(prefers-color-scheme: dark)" 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=walbarellos&theme=tokyonight&layout=compact&langs_count=8&hide_border=true&title_color=70a5fd&text_color=c9d1d9&bg_color=0d1117&hide=Shaderlab,hlml,shell,.c#,Jupyter Notebook">
+        <source media="(prefers-color-scheme: light)" 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=walbarellos&layout=compact&langs_count=8&hide_border=true&title_color=70a5fd&text_color=c9d1d9&bg_color=ffffff&hide=Shaderlab,hlml,shell,.c#,Jupyter Notebook">
+        <img width="37%" height="auto" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=walbarellos&theme=tokyonight&layout=compact&langs_count=8&hide_border=true&title_color=70a5fd&text_color=c9d1d9&bg_color=0d1117&hide=Shaderlab,hlml,shell,.c#,Jupyter Notebook" 
+      alt="Linguagens mais usadas">
+  </picture>
+</div>
+
+<div style="text-align: center;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/walbarellos/walbarellos/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/walbarellos/walbarellos/blob/output/github-snake.svg" />
+    <img alt="github-snake" src="https://github.com/walbarellos/walbarellos/blob/output/ocean.gif" />
+  </picture>
+</div>
+
 ---
 
 ## 🔭 Projetos em Destaque
@@ -44,48 +135,3 @@
 ↪ Cada sistema que construo é um pequeno templo.
 ↪ Cada variável carrega um símbolo.
 ↪ Cada commit é uma oferenda à Ordem.
-```
-
-- Código limpo não é luxo: é *respeito à mente futura* que o lerá.
-- Interfaces devem **comunicar** simbolicamente, não apenas "funcionar".
-- Contribuo para um mundo mais digno com ferramentas de verdade.
-
----
-
-## 🌐 Onde me encontrar
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Willian_Albarello-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willian-albarello-b96361103)  
-[![QOTO](https://img.shields.io/badge/Mastodon-%40wepiphany%40qoto.org-purple?style=flat&logo=mastodon&logoColor=white)](https://qoto.org/@wepiphany)  
-[![Portfólio](https://img.shields.io/badge/Portfólio-Paper.netlify.app-111111?style=flat&logo=netlify&logoColor=white)](https://walbarellos-paper.netlify.app)  
-[![Dev.to](https://img.shields.io/badge/Dev.to-%40walbarello-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/walbarello)  
-
----
-
-## 🙏 Sponsor me
-
-> *Não estou aqui para vender cursos ou coletar seus dados — apenas para construir ferramentas úteis com dignidade.*  
-> Se gostou do que faço, considere patrocinar:
-
-[![Sponsor](https://img.shields.io/badge/Sponsor-%F0%9F%92%AA-red?style=for-the-badge)](https://github.com/sponsors/walbarellos)
-
----
-## 🛠️ Skills
-
-```text
-🧠 Linguagens: C · C++ · Assembly · Python · TypeScript · Bash · HTML · CSS · SQL · Ruby
-🧱 Frameworks: FastAPI · React · Tailwind · Godot · Jinja2 · Tauri · Node.js · Rails · Web2py · Django
-🧬 Arquitetura: Microserviços · Event-Driven · Clean Arch · ECS Engine Design
-📦 Banco de dados: PostgreSQL · SQLite · Redis · Cassandra
-⚙️ Ferramentas: Git · Docker · Make · Alembic · ESLint · Vim · Kitty Terminal
-🧙 Filosofia: Método Caracol · Sommerville
-```
-[![My Skills](https://skillicons.dev/icons?i=react,ts,js,laravel,php,wordpress,mysql,redis,docker,aws,github,git,vite,webpack,npm,nextjs,nodejs,redux,c,cs,cpp,ruby,py,django,vim,regex,rails,jest,html,css,tailwind,figma,bsd,arch,postman&perline=11)](#)
-
----
-
-## 🏆 Conquistas (emblemas simbólicos)
-
-<p align="center">
-  <img src="https://github.com/walbarellos.png" width="100" /><br />
-  🧭 Caminhante entre mundos · 👁 Vidente do Código · 🧱 Construtor de Pontes
-</p>
