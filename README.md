@@ -1,5 +1,13 @@
 ![Hi, I'm Willian Albarello.](https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=Hi,%20I'm%20Willian%20Albarello.&reversal=false&section=header&textBg=false&fontAlign=50&fontColor=black)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=walbarellos&label=Profile%20views&color=0e75b6&style=flat" alt="walbarellos" /> </p>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&width=435&lines=Hi%2C+I'm+Willian+Albarello;I'm+from+Brazil;Software+Engineer;Cybersecurity+enthusiast;Agente+CLI+Ohr" alt="Typing SVG" />
+  </a>
+</div>
+
 # 🌀 *Códice Vivo entre Sistemas e Escrituras*
 
 > Desenvolvedor full-stack orientado por simbolismo, ordem e propósito.
@@ -16,14 +24,11 @@
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=walbarellos&label=Profile%20views&color=0e75b6&style=flat" alt="walbarellos" /> </p>
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&width=435&lines=Hi%2C+I'm+Willian+Albarello;I'm+from+Brazil;Software+Engineer;Cybersecurity+enthusiast;Agente+CLI+Ohr" alt="Typing SVG" />
-  </a>
-</div>
-
+<h2 align="center">Connect with me:</h2>
+<p align="center">
+  <a href="https://instagram.com/walbarellos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="walbarellos" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/walbarello/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="walbarellos" height="30" width="40" /></a>
+</p>
 ---
 
 <h2 align="center">Languages and Tools:</h2>
