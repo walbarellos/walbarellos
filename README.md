@@ -1,3 +1,14 @@
+Mestre William, entendi o seu último comando: **a parte que você me enviou é o arquivo completo com as seções no lugar errado** (Estatísticas antes dos Projetos) e com a frase de erro (`quebrou o arquivo remova o que não faz parte e adicione as estatíscas`) dentro do bloco de código.
+
+A sua intenção é ter um arquivo **correto** (Projetos antes das Estatísticas).
+
+Aqui está o **arquivo COMPLETO e CORRIGIDO**, com todas as seções na ordem lógica e sem a frase de erro. Copie e cole este bloco no seu `README.md` para finalizar o processo.
+
+-----
+
+## README.md (Estrutura Completa e Corrigida)
+
+````markdown
 ![Hi, I'm Willian Albarello.](https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=Hi,%20I'm%20Willian%20Albarello.&reversal=false&section=header&textBg=false&fontAlign=50&fontColor=black)
 
 # 🌀 *Códice Vivo entre Sistemas e Escrituras*
@@ -6,38 +17,6 @@
 > Adépto do **Método Caracol**: espiral viva de refinamento contínuo através de Sabedoria, Força e Beleza.
 
 ---
----
-
-<h2 align="center">Estatísticas do GitHub</h2>
-<div align="center">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" 
-      srcset="https://github-readme-stats.vercel.app/api?username=walbarellos&theme=tokyonight&layout=compact&show_icons=true&count_private=true&hide_border=true&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9&bg_color=0d1117">
-        <source media="(prefers-color-scheme: light)" 
-      srcset="https://github-readme-stats.vercel.app/api?username=walbarellos&layout=compact&show_icons=true&count_private=true&hide_border=true&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9&bg_color=ffffff">
-        <img width="49%" height="auto" 
-      src="https://github-readme-stats.vercel.app/api?username=walbarellos&theme=tokyonight&layout=compact&show_icons=true&count_private=true&hide_border=true&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9&bg_color=0d1117" 
-      alt="Estatísticas do GitHub">
-  </picture>
-  
-    <picture>
-        <source media="(prefers-color-scheme: dark)" 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=walbarellos&theme=tokyonight&layout=compact&langs_count=8&hide_border=true&title_color=70a5fd&text_color=c9d1d9&bg_color=0d1117&hide=Shaderlab,hlml,shell,.c#,Jupyter Notebook">
-        <source media="(prefers-color-scheme: light)" 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=walbarellos&layout=compact&langs_count=8&hide_border=true&title_color=70a5fd&text_color=c9d1d9&bg_color=ffffff&hide=Shaderlab,hlml,shell,.c#,Jupyter Notebook">
-        <img width="37%" height="auto" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=walbarellos&theme=tokyonight&layout=compact&langs_count=8&hide_border=true&title_color=70a5fd&text_color=c9d1d9&bg_color=0d1117&hide=Shaderlab,hlml,shell,.c#,Jupyter Notebook" 
-      alt="Linguagens mais usadas">
-  </picture>
-</div>
-
-<div style="text-align: center;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/walbarellos/walbarellos/blob/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/walbarellos/walbarellos/blob/output/github-snake.svg" />
-    <img alt="github-snake" src="https://github.com/walbarellos/walbarellos/blob/output/ocean.gif" />
-  </picture>
-</div>
 
 ## 🧙 Quem sou eu
 
@@ -108,38 +87,6 @@
 
 ---
 
-<div align="center">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" 
-      srcset="https://github-readme-stats.vercel.app/api?username=walbarellos&theme=tokyonight&layout=compact&show_icons=true&count_private=true&hide_border=true&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9&bg_color=0d1117">
-        <source media="(prefers-color-scheme: light)" 
-      srcset="https://github-readme-stats.vercel.app/api?username=walbarellos&layout=compact&show_icons=true&count_private=true&hide_border=true&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9&bg_color=ffffff">
-        <img width="49%" height="auto" 
-      src="https://github-readme-stats.vercel.app/api?username=walbarellos&theme=tokyonight&layout=compact&show_icons=true&count_private=true&hide_border=true&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9&bg_color=0d1117" 
-      alt="Estatísticas do GitHub">
-  </picture>
-  
-    <picture>
-        <source media="(prefers-color-scheme: dark)" 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=walbarellos&theme=tokyonight&layout=compact&langs_count=8&hide_border=true&title_color=70a5fd&text_color=c9d1d9&bg_color=0d1117&hide=Shaderlab,hlml,shell,.c#,Jupyter Notebook">
-        <source media="(prefers-color-scheme: light)" 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=walbarellos&layout=compact&langs_count=8&hide_border=true&title_color=70a5fd&text_color=c9d1d9&bg_color=ffffff&hide=Shaderlab,hlml,shell,.c#,Jupyter Notebook">
-        <img width="37%" height="auto" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=walbarellos&theme=tokyonight&layout=compact&langs_count=8&hide_border=true&title_color=70a5fd&text_color=c9d1d9&bg_color=0d1117&hide=Shaderlab,hlml,shell,.c#,Jupyter Notebook" 
-      alt="Linguagens mais usadas">
-  </picture>
-</div>
-
-<div style="text-align: center;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/walbarellos/walbarellos/blob/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/walbarellos/walbarellos/blob/output/github-snake.svg" />
-    <img alt="github-snake" src="https://github.com/walbarellos/walbarellos/blob/output/ocean.gif" />
-  </picture>
-</div>
-
----
-
 ## 🔭 Projetos em Destaque
 
 | Nome | Descrição | Tech |
@@ -167,4 +114,91 @@
 ↪ Cada sistema que construo é um pequeno templo.
 ↪ Cada variável carrega um símbolo.
 ↪ Cada commit é uma oferenda à Ordem.
+````
 
+  - Código limpo não é luxo: é *respeito à mente futura* que o lerá.
+  - Interfaces devem **comunicar** simbolicamente, não apenas "funcionar".
+  - Contribuo para um mundo mais digno com ferramentas de verdade.
+
+-----
+
+## 🌐 Onde me encontrar / Connect with me
+
+\<p align="center"\>
+  \<a href="https://www.google.com/search?q=https://instagram.com/walbarellos" target="blank"\>\<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="walbarellos" height="30" width="40" /\>\</a\>
+  \<a href="https://www.google.com/search?q=https://www.linkedin.com/in/willian-albarello-b96361103/" target="blank"\>\<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Willian Albarello" height="30" width="40" /\>\</a\>
+\</p\>
+
+[](https://www.google.com/search?q=https://www.linkedin.com/in/willian-albarello-b96361103)  
+[](https://qoto.org/@wepiphany)  
+[](https://www.google.com/search?q=https://walbarellos-paper.netlify.app)  
+[](https://www.google.com/search?q=https://dev.to/walbarello)  
+
+-----
+
+## 🙏 Sponsor me
+
+> *Não estou aqui para vender cursos ou coletar seus dados — apenas para construir ferramentas úteis com dignidade.*  
+> Se gostou do que faço, considere patrocinar:
+
+[](https://www.google.com/search?q=https://github.com/sponsors/walbarellos)
+
+-----
+
+## 🛠️ Skills
+
+```text
+🧠 Linguagens: C · C++ · Assembly · Python · TypeScript · Bash · HTML · CSS · SQL · Ruby
+🧱 Frameworks: FastAPI · React · Tailwind · Godot · Jinja2 · Tauri · Node.js · Rails · Web2py · Django
+🧬 Arquitetura: Microserviços · Event-Driven · Clean Arch · ECS Engine Design
+📦 Banco de dados: PostgreSQL · SQLite · Redis · Cassandra
+⚙️ Ferramentas: Git · Docker · Make · Alembic · ESLint · Vim · Kitty Terminal
+🧙 Filosofia: Método Caracol · Sommerville
+```
+
+[](https://www.google.com/search?q=%23)
+
+-----
+
+## 🏆 Conquistas (emblemas simbólicos)
+
+\<p align="center"\>
+  \<img src="https://www.google.com/search?q=https://github.com/walbarellos.png" width="100" /\>\<br /\>
+  🧭 Caminhante entre mundos · 👁 Vidente do Código · 🧱 Construtor de Pontes
+\</p\>
+
+-----
+
+\<h2 align="center"\>Estatísticas do GitHub\</h2\>
+\<div align="center"\>
+    \<picture\>
+        \<source media="(prefers-color-scheme: dark)" 
+      srcset="https://github-readme-stats.vercel.app/api?username=walbarellos\&theme=tokyonight\&layout=compact\&show\_icons=true\&count\_private=true\&hide\_border=true\&title\_color=70a5fd\&icon\_color=70a5fd\&text\_color=c9d1d9\&bg\_color=0d1117"\>
+        \<source media="(prefers-color-scheme: light)" 
+      srcset="https://github-readme-stats.vercel.app/api?username=walbarellos\&layout=compact\&show\_icons=true\&count\_private=true\&hide\_border=true\&title\_color=70a5fd\&icon\_color=70a5fd\&text\_color=c9d1d9\&bg\_color=ffffff"\>
+        \<img width="49%" height="auto" 
+      src="https://github-readme-stats.vercel.app/api?username=walbarellos\&theme=tokyonight\&layout=compact\&show\_icons=true\&count\_private=true\&hide\_border=true\&title\_color=70a5fd\&icon\_color=70a5fd\&text\_color=c9d1d9\&bg\_color=0d1117" 
+      alt="Estatísticas do GitHub"\>
+  \</picture\>
+  
+    \<picture\>
+        \<source media="(prefers-color-scheme: dark)" 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=walbarellos\&theme=tokyonight\&layout=compact\&langs\_count=8\&hide\_border=true\&title\_color=70a5fd\&text\_color=c9d1d9\&bg\_color=0d1117\&hide=Shaderlab,hlml,shell,.chttps://www.google.com/search?q=%23,Jupyter Notebook"\>
+        \<source media="(prefers-color-scheme: light)" 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=walbarellos\&layout=compact\&langs\_count=8\&hide\_border=true\&title\_color=70a5fd\&text\_color=c9d1d9\&bg\_color=ffffff\&hide=Shaderlab,hlml,shell,.chttps://www.google.com/search?q=%23,Jupyter Notebook"\>
+        \<img width="37%" height="auto" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=walbarellos\&theme=tokyonight\&layout=compact\&langs\_count=8\&hide\_border=true\&title\_color=70a5fd\&text\_color=c9d1d9\&bg\_color=0d1117\&hide=Shaderlab,hlml,shell,.chttps://www.google.com/search?q=%23,Jupyter Notebook" 
+      alt="Linguagens mais usadas"\>
+  \</picture\>
+\</div\>
+
+\<div style="text-align: center;"\>
+  \<picture\>
+    \<source media="(prefers-color-scheme: dark)" srcset="https://github.com/walbarellos/walbarellos/blob/output/github-snake-dark.svg" /\>
+    \<source media="(prefers-color-scheme: light)" srcset="https://github.com/walbarellos/walbarellos/blob/output/github-snake.svg" /\>
+    \<img alt="github-snake" src="https://github.com/walbarellos/walbarellos/blob/output/ocean.gif" /\>
+  \</picture\>
+\</div\>
+
+```
+```
