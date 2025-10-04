@@ -6,6 +6,38 @@
 > Adépto do **Método Caracol**: espiral viva de refinamento contínuo através de Sabedoria, Força e Beleza.
 
 ---
+---
+
+<h2 align="center">Estatísticas do GitHub</h2>
+<div align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" 
+      srcset="https://github-readme-stats.vercel.app/api?username=walbarellos&theme=tokyonight&layout=compact&show_icons=true&count_private=true&hide_border=true&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9&bg_color=0d1117">
+        <source media="(prefers-color-scheme: light)" 
+      srcset="https://github-readme-stats.vercel.app/api?username=walbarellos&layout=compact&show_icons=true&count_private=true&hide_border=true&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9&bg_color=ffffff">
+        <img width="49%" height="auto" 
+      src="https://github-readme-stats.vercel.app/api?username=walbarellos&theme=tokyonight&layout=compact&show_icons=true&count_private=true&hide_border=true&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9&bg_color=0d1117" 
+      alt="Estatísticas do GitHub">
+  </picture>
+  
+    <picture>
+        <source media="(prefers-color-scheme: dark)" 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=walbarellos&theme=tokyonight&layout=compact&langs_count=8&hide_border=true&title_color=70a5fd&text_color=c9d1d9&bg_color=0d1117&hide=Shaderlab,hlml,shell,.c#,Jupyter Notebook">
+        <source media="(prefers-color-scheme: light)" 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=walbarellos&layout=compact&langs_count=8&hide_border=true&title_color=70a5fd&text_color=c9d1d9&bg_color=ffffff&hide=Shaderlab,hlml,shell,.c#,Jupyter Notebook">
+        <img width="37%" height="auto" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=walbarellos&theme=tokyonight&layout=compact&langs_count=8&hide_border=true&title_color=70a5fd&text_color=c9d1d9&bg_color=0d1117&hide=Shaderlab,hlml,shell,.c#,Jupyter Notebook" 
+      alt="Linguagens mais usadas">
+  </picture>
+</div>
+
+<div style="text-align: center;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/walbarellos/walbarellos/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/walbarellos/walbarellos/blob/output/github-snake.svg" />
+    <img alt="github-snake" src="https://github.com/walbarellos/walbarellos/blob/output/ocean.gif" />
+  </picture>
+</div>
 
 ## 🧙 Quem sou eu
 
@@ -135,3 +167,4 @@
 ↪ Cada sistema que construo é um pequeno templo.
 ↪ Cada variável carrega um símbolo.
 ↪ Cada commit é uma oferenda à Ordem.
+
