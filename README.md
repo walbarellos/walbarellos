@@ -35,40 +35,41 @@
 </p>
 
 ---
+
 <h2 align="center">Languages and Tools:</h2>
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 16px;">
-  <div align="center">
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 24px; align-items: center;">
+  <span style="display: inline-flex; flex-direction: column; align-items: center;">
     <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python"/>
     <br>Python
-  </div>
-  <div align="center">
+  </span>
+  <span style="display: inline-flex; flex-direction: column; align-items: center;">
     <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript"/>
     <br>JavaScript
-  </div>
-  <div align="center">
+  </span>
+  <span style="display: inline-flex; flex-direction: column; align-items: center;">
     <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" alt="TypeScript"/>
     <br>TypeScript
-  </div>
-  <div align="center">
+  </span>
+  <span style="display: inline-flex; flex-direction: column; align-items: center;">
     <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" alt="C++"/>
     <br>C++
-  </div>
-  <div align="center">
+  </span>
+  <span style="display: inline-flex; flex-direction: column; align-items: center;">
     <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="React"/>
     <br>React
-  </div>
-  <div align="center">
+  </span>
+  <span style="display: inline-flex; flex-direction: column; align-items: center;">
     <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL"/>
     <br>MySQL
-  </div>
-  <div align="center">
+  </span>
+  <span style="display: inline-flex; flex-direction: column; align-items: center;">
     <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="Git"/>
     <br>Git
-  </div>
-  <div align="center">
+  </span>
+  <span style="display: inline-flex; flex-direction: column; align-items: center;">
     <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" alt="AWS"/>
     <br>AWS
-  </div>
+  </span>
 </div>
 
 ---
