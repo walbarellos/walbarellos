@@ -19,7 +19,7 @@
 
 ## 🧙 About Me
 
-- 🧩 Neurodivergent self-taught engineer with a background in **C**, **C++**, **Assembly**, **Python**, **TypeScript**, **React**, **Ruby**, **FastAPI**...  
+- 🧩 Neurodivergent self-taught engineer with a background in **C**, **C#**, **C++**, **Assembly**, **Java**, **Python**, **TypeScript**, **React**, **Ruby**, **Javascript**,**FastAPI**...  
 - 🌀 I build complex systems with *meaning*, not just code.  
 - 🛡️ Advocate for ethical, symbolic, and high-impact computing.  
 - 🧬 Ethical Hacker / White Hat  
@@ -105,7 +105,6 @@
 
 ## 🔭 Featured Projects
 
-<details>
 <summary>Click to expand all projects</summary>
 
 | Name | Description | Tech |
@@ -130,8 +129,6 @@
 | [Nails Designer (web system)](https://github.com/walbarellos/nails-designer) | Scheduling and management system for nail designers. | JS, LocalStorage, Pure Frontend |
 | [AutoAgent](https://github.com/walbarellos/AutoAgent) | Local automation agent for tasks using GPT in Python. | Python, CLI, Automation |
 | [Llama On The Brows](https://github.com/walbarellos/Llama-On-The-Brows) | Project with LLaMA embedded directly in the browser. | JS, WebLLM, In-browser AI |
-
-</details>
 
 ---
 
