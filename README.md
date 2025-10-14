@@ -37,40 +37,16 @@
 ---
 
 <h2 align="center">Languages and Tools:</h2>
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 16px;">
-  <div align="center">
-    <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python"/>
-    <br>Python
-  </div>
-  <div align="center">
-    <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript"/>
-    <br>JavaScript
-  </div>
-  <div align="center">
-    <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" alt="TypeScript"/>
-    <br>TypeScript
-  </div>
-  <div align="center">
-    <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" alt="C++"/>
-    <br>C++
-  </div>
-  <div align="center">
-    <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="React"/>
-    <br>React
-  </div>
-  <div align="center">
-    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL"/>
-    <br>MySQL
-  </div>
-  <div align="center">
-    <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="Git"/>
-    <br>Git
-  </div>
-  <div align="center">
-    <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" alt="AWS"/>
-    <br>AWS
-  </div>
-</div>
+<p align="center">
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+  ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+</p>
 
 ---
 
