@@ -37,40 +37,37 @@
 ---
 
 <h2 align="center">Languages and Tools:</h2>
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 24px; align-items: center;">
-  <span style="display: inline-flex; flex-direction: column; align-items: center;">
-    <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python"/>
-    <br>Python
-  </span>
-  <span style="display: inline-flex; flex-direction: column; align-items: center;">
-    <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript"/>
-    <br>JavaScript
-  </span>
-  <span style="display: inline-flex; flex-direction: column; align-items: center;">
-    <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" alt="TypeScript"/>
-    <br>TypeScript
-  </span>
-  <span style="display: inline-flex; flex-direction: column; align-items: center;">
-    <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" alt="C++"/>
-    <br>C++
-  </span>
-  <span style="display: inline-flex; flex-direction: column; align-items: center;">
-    <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="React"/>
-    <br>React
-  </span>
-  <span style="display: inline-flex; flex-direction: column; align-items: center;">
-    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL"/>
-    <br>MySQL
-  </span>
-  <span style="display: inline-flex; flex-direction: column; align-items: center;">
-    <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="Git"/>
-    <br>Git
-  </span>
-  <span style="display: inline-flex; flex-direction: column; align-items: center;">
-    <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" alt="AWS"/>
-    <br>AWS
-  </span>
-</div>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65"/><br>Python
+    </td>
+    <td align="center">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65"/><br>JavaScript
+    </td>
+    <td align="center">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65"/><br>TypeScript
+    </td>
+    <td align="center">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65"/><br>C++
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65"/><br>React
+    </td>
+    <td align="center">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65"/><br>MySQL
+    </td>
+    <td align="center">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65"/><br>Git
+    </td>
+    <td align="center">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65"/><br>AWS
+    </td>
+  </tr>
+</table>
 
 ---
 
