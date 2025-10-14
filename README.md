@@ -105,8 +105,6 @@
 
 ## 🔭 Featured Projects
 
-<summary>Click to expand all projects</summary>
-
 | Name | Description | Tech |
 |------|-----------|------|
 | [GitHub Unfollow Manager GUI](https://github.com/walbarellos/github-unfollow-gui) | Web tool to view, filter, and selectively unfollow accounts that don't follow back, featuring a clean interface and audit logs. | Python, Flask, Bootstrap, GitHub API |
