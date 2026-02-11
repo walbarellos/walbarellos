@@ -24,7 +24,7 @@
 - 🛡️ Advocate for ethical, symbolic, and high-impact computing.  
 - 🧬 Ethical Hacker / White Hat  
 
-[🌐 Visit my Interactive Resume](https://walbarellos.github.io/curriculum-landing/)
+[🌐 Visit my Interactive Resume](https://walbarellos-paper.netlify.app/)
 
 ---
 
