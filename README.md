@@ -80,8 +80,7 @@
 
 <p align="center">═════ ✦ ═════</p>
 
-<h2 align="center">⚡ PROJECTS</h2>
-
+<h2 align="center">PROJECTS\/TECHNOLOGY GRAPH</h2>
 ![walbarellos-knowledge-graph](https://github.com/user-attachments/assets/55555f26-b5e5-4c6e-a536-b038b001dd43)  
 
 | Project | Description | Tech |
@@ -112,6 +111,3 @@
 
 <p align="center"><code>Full Stack Developer</code> <code>AI Engineer</code> <code>Game Engine Developer</code></p>
 
-<p align="center">═════ ✦ ═════</p>
-
-<h2 align="center">TECHNOLOGY GRAPH</h2>
