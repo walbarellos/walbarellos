@@ -82,6 +82,7 @@
 <p align="center">═════ ✦ ═════</p>
 
 <h2 align="center">⚡ PROJECTS</h2>
+![walbarellos-knowledge-graph(1)](https://github.com/user-attachments/assets/ae31b23b-cc72-4007-8b7a-535b3894accb)
 
 | Project | Description | Tech |
 |:--:|:--|:--:|
@@ -114,5 +115,3 @@
 <p align="center">═════ ✦ ═════</p>
 
 <h2 align="center">TECHNOLOGY GRAPH</h2>
-
-![Developer Knowledge Graph](./assets/knowledge-graph.svg)
