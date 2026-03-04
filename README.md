@@ -1,5 +1,3 @@
-![Hi, I'm walbarellos.](https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=Hi,%20I'm%20Willian%20Albarello.&reversal=false&section=header&textBg=false&fontAlign=50&fontColor=black)
-
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=walbarellos&label=Profile%20views&color=0e75b6&style=flat" alt="walbarellos" /> 
 </p>
