@@ -1,3 +1,5 @@
+![Hi, I'm walbarellos.](https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=Hi,%20I'm%20Willian%20Albarello.&reversal=false&section=header&textBg=false&fontAlign=50&fontColor=black)
+
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=walbarellos&label=Profile%20views&color=0e75b6&style=flat" alt="walbarellos" /> 
 </p>
@@ -79,49 +81,40 @@
 ↪ Every commit is an offering to Order.
 ```
 
-═════ ✦ ═════
+<p align="center">═════ ✦ ═════</p>
 
-## ⚡ PROJECTS
+<h2 align="center">⚡ PROJECTS</h2>
 
-| Project | Description | Tech | Score |
-|--------|-------------|------|-------|
-| [IRC-Bot](https://github.com/walbarellos/IRC-Bot) | - | Python | 40.0 |
-| [Sentinela](https://github.com/walbarellos/Sentinela) | Monitoramento - Recursos Acre / Rio Branco. | Python | 40.0 |
-| [network-lab](https://github.com/walbarellos/network-lab) | - | Python | 40.0 |
-| [portalFG](https://github.com/walbarellos/portalFG) | portal de notícias do Fala Glauber | TypeScript | 40.0 |
-| [shomer-OSINT](https://github.com/walbarellos/shomer-OSINT) | Shomer OSINT — Ferramenta de coleta e análise de comentários públicos do Facebook usando Selenium (Python/FastAPI) e vitrine interativa (Next.js/React). Permite capturar… | TypeScript | 28.0 |
-| [WaveShooter](https://github.com/walbarellos/WaveShooter) | C++ Game Experiment | C++ | 28.0 |
+| Project | Description | Tech |
+|:--:|:--|:--:|
+| [IRC-Bot](https://github.com/walbarellos/IRC-Bot) | - | Python |
+| [Sentinela](https://github.com/walbarellos/Sentinela) | Monitoramento - Recursos Acre / Rio Branco. | Python |
+| [network-lab](https://github.com/walbarellos/network-lab) | - | Python |
+| [portalFG](https://github.com/walbarellos/portalFG) | portal de notícias do Fala Glauber | TypeScript |
+| [shomer-OSINT](https://github.com/walbarellos/shomer-OSINT) | Shomer OSINT — Ferramenta de coleta e análise de comentários públicos do Facebook usando Selenium (Python/FastAPI) e vitrine interativa (Next.js/React). Permite capturar… | TypeScript |
+| [WaveShooter](https://github.com/walbarellos/WaveShooter) | C++ Game Experiment | C++ |
 
-═════ ✦ ═════
+<p align="center">═════ ✦ ═════</p>
 
-## TECH MATRIX
+<h2 align="center">TECH MATRIX</h2>
 
-- **Python** (12)
-- **HTML** (6)
-- **TypeScript** (4)
-- **JavaScript** (4)
-- **C++** (2)
-- **CSS** (2)
-- **Shell** (1)
-- **Java** (1)
+<p align="center"><code>Python · 12</code> <code>HTML · 6</code> <code>TypeScript · 4</code> <code>JavaScript · 4</code></p>
+<p align="center"><code>C++ · 2</code> <code>CSS · 2</code> <code>Shell · 1</code> <code>Java · 1</code></p>
 
-═════ ✦ ═════
+<p align="center">═════ ✦ ═════</p>
 
-## CORE DOMAINS
+<h2 align="center">CORE DOMAINS</h2>
 
-- Tools (20)
-- AI/ML (9)
-- Game Development (7)
-- Backend (2)
+<p align="center"><code>Tools · 20</code> <code>AI/ML · 9</code> <code>Game Development · 7</code> <code>Backend · 2</code></p>
 
-═════ ✦ ═════
+<p align="center">═════ ✦ ═════</p>
 
-## DEVELOPER ARCHETYPE
+<h2 align="center">DEVELOPER ARCHETYPE</h2>
 
-- Full Stack Developer
-- AI Engineer
-- Game Engine Developer
+<p align="center"><code>Full Stack Developer</code> <code>AI Engineer</code> <code>Game Engine Developer</code></p>
 
-═════ ✦ ═════
+<p align="center">═════ ✦ ═════</p>
 
-## TECHNOLOGY GRAPH![walbarellos-knowledge-graph(1)](https://github.com/user-attachments/assets/6c79f672-b28e-47c5-971d-6832808f79a8)
+<h2 align="center">TECHNOLOGY GRAPH</h2>
+
+![Developer Knowledge Graph](./assets/knowledge-graph.svg)
