@@ -86,12 +86,13 @@
 
 | Project | Description | Tech |
 |:--:|:--|:--:|
+| [Acre-Processos-Licitatorios](https://github.com/walbarellos/Acre-Processos-Licitatorios) |  Sistema de Licitação integrado ao Portal de Licitações do Governo do Acre: [(https://licitacao.ac.gov.br/)] | Python |
 | [IRC-Bot](https://github.com/walbarellos/IRC-Bot) | - | Python |
 | [Sentinela](https://github.com/walbarellos/Sentinela) | Monitoramento - Recursos Acre / Rio Branco. | Python |
 | [network-lab](https://github.com/walbarellos/network-lab) | - | Python |
-| [portalFG](https://github.com/walbarellos/portalFG) | portal de notícias do Fala Glauber | TypeScript |
+| [Free-QRCode](https://github.com/walbarellos/Free-QRCode) | Create your Own QR-Code | TypeScript |
 | [shomer-OSINT](https://github.com/walbarellos/shomer-OSINT) | Shomer OSINT — Ferramenta de coleta e análise de comentários públicos do Facebook usando Selenium (Python/FastAPI) e vitrine interativa (Next.js/React). Permite capturar… | TypeScript |
-| [WaveShooter](https://github.com/walbarellos/WaveShooter) | C++ Game Experiment | C++ |
+| [Youtube-Transcript](https://github.com/walbarellos/Youtube-Transcript) | Transcreva Vídeos do Youtube para .TXT/PDF etc. | Python |
 
 <p align="center">═════ ✦ ═════</p>
 
