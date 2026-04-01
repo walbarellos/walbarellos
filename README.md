@@ -68,7 +68,7 @@
 
 <h2 align="center">PROJECTS\/TECHNOLOGY GRAPH</h2>
 
-![walbarellos-knowledge-graph(1)](https://github.com/user-attachments/assets/44e6282e-c72f-43f4-bbf6-1118fbace901)
+(https://github.com/user-attachments/assets/44e6282e-c72f-43f4-bbf6-1118fbace901)
 
 | Project | Description | Tech |
 |:--:|:--|:--:|
