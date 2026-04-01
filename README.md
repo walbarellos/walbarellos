@@ -67,8 +67,7 @@
 <p align="center">═════ ✦ ═════</p>
 
 <h2 align="center">PROJECTS\/TECHNOLOGY GRAPH</h2>
-
-<img>Graph<https://github.com/user-attachments/assets/44e6282e-c72f-43f4-bbf6-1118fbace901/>
+<img src="https://github.com/user-attachments/assets/44e6282e-c72f-43f4-bbf6-1118fbace901" alt="walbarellos-graph" /> 
 
 | Project | Description | Tech |
 |:--:|:--|:--:|
