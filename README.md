@@ -64,11 +64,9 @@
   </picture>
 </div>
 
-<p align="center">═════ ✦ ═════</p>
-
 <img src="https://github.com/user-attachments/assets/44e6282e-c72f-43f4-bbf6-1118fbace901" />
+<p align="center">═════ ✦ ═════<p>
 
-</p>
 | Project | Description | Tech |
 |:--:|:--|:--:|
 | [Acre-Processos-Licitatorios](https://github.com/walbarellos/Acre-Processos-Licitatorios) |  Sistema de Licitação integrado ao Portal de Licitações do Governo do Acre: [(https://licitacao.ac.gov.br/)] | Python |
