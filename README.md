@@ -7,14 +7,9 @@
   </a>
 </div>
 
-# 🌀 *Living Codex Between Systems and Scriptures*
-
-> Full-stack developer driven by symbolism, order, and purpose.  
-> Spiral of continuous refinement through Wisdom, Strength, and Beauty.
-
 ## 🧙 About Me
 
-- 🧩 Neurodivergent self-taught engineer with a background in **C**, **C#**, **C++**, **Assembly**, **Java**, **Python**, **TypeScript**, **React**, **Ruby**, **Javascript**, **FastAPI**...  
+- 🧩 Self-taught engineer with a background in **C**, **C#**, **C++**, **Assembly**, **Java**, **Python**, **TypeScript**, **React**, **Ruby**, **Javascript**, **FastAPI**...  
 - 🌀 I build complex systems with *meaning*, not just code.  
 - 🛡️ Advocate for ethical, symbolic, and high-impact computing.  
 - 🧬 Ethical Hacker / White Hat  
@@ -69,14 +64,6 @@
   </picture>
 </div>
 
-## 📜 Development Philosophy
-
-```text
-↪ Every system I build is a small temple.
-↪ Every variable carries a symbol.
-↪ Every commit is an offering to Order.
-```
-
 <p align="center">═════ ✦ ═════</p>
 
 <h2 align="center">PROJECTS\/TECHNOLOGY GRAPH</h2>
@@ -92,6 +79,8 @@
 | [Free-QRCode](https://github.com/walbarellos/Free-QRCode) | Create your Own QR-Code | TypeScript |
 | [shomer-OSINT](https://github.com/walbarellos/shomer-OSINT) | Shomer OSINT — Ferramenta de coleta e análise de comentários públicos do Facebook usando Selenium (Python/FastAPI) e vitrine interativa (Next.js/React). Permite capturar… | TypeScript |
 | [Youtube-Transcript](https://github.com/walbarellos/Youtube-Transcript) | Transcreva Vídeos do Youtube para .TXT/PDF etc. | Python |
+| [Math-1st](https://github.com/walbarellos?tab=repositories) | Aprenda Matemática ou se arrisque com esse APK com demonstrações de cálculos para inclusive Base 2,5,7. Mais Instruções no ao lado.
+
 
 <p align="center">═════ ✦ ═════</p>
 
