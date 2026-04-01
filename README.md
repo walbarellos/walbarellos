@@ -65,8 +65,9 @@
 </div>
 
 <p align="center">═════ ✦ ═════</p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/44e6282e-c72f-43f4-bbf6-1118fbace901" />
+
+<img src="https://github.com/user-attachments/assets/44e6282e-c72f-43f4-bbf6-1118fbace901" />
+
 </p>
 | Project | Description | Tech |
 |:--:|:--|:--:|
