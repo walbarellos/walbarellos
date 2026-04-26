@@ -69,6 +69,7 @@
 
 | Project | Description | Tech |
 |:--:|:--|:--:|
+| [Fala Comigo](https://github.com/walbarellos/FalaComigo) | Aplicativo brasileiro de **Comunicação Aumentativa e Alternativa (CAA)** para pessoas com dificuldade de fala. |Kotlin| Jetpack Compose | Android |
 | [Acre-Processos-Licitatorios](https://github.com/walbarellos/Acre-Processos-Licitatorios) |  Sistema de Licitação integrado ao Portal de Licitações do Governo do Acre: [(https://licitacao.ac.gov.br/)] | Python |
 | [IRC-Bot](https://github.com/walbarellos/IRC-Bot) | - | Python |
 | [Sentinela](https://github.com/walbarellos/Sentinela) | Monitoramento - Recursos Acre / Rio Branco. | Python |
