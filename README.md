@@ -77,8 +77,8 @@
 | [Free-QRCode](https://github.com/walbarellos/Free-QRCode) | Create your Own QR-Code | TypeScript |
 | [shomer-OSINT](https://github.com/walbarellos/shomer-OSINT) | Shomer OSINT — Ferramenta de coleta e análise de comentários públicos do Facebook usando Selenium (Python/FastAPI) e vitrine interativa (Next.js/React). Permite capturar… | TypeScript |
 | [Youtube-Transcript](https://github.com/walbarellos/Youtube-Transcript) | Transcreva Vídeos do Youtube para .TXT/PDF etc. | Python |
-| [ViraDez](https://github.com/walbarellos?tab=repositories) | Esse Aplicativo fará o professor de matemática ter pesadelos com você. Uma Calculadora que faz até científicas chorarem. Core para estudantes de primeiro período que vadiaram no ensino fundamental/médio. Ou tiozões acima dos 30. Que fizeram ambos. Boa sorte! Bom uso. Não seja pego usando! *Um Aplicativo amigo para as horas dificeis que são as aulas do Professor Paulo. Te amo professor! Com carinho a você: *Boa tarde Tierri!* ♡
-
+| [ViraDez](https://github.com/walbarellos/ViraDez) | Esse Aplicativo fará o professor de matemática ter pesadelos com você. Uma Calculadora que faz até científicas chorarem. Core para estudantes de primeiro período que vadiaram no ensino fundamental/médio. Ou tiozões acima dos 30. Que fizeram ambos. Boa sorte! Bom uso. Não seja pego usando! *Um Aplicativo amigo para as horas dificeis que são as aulas do Professor Paulo. Te amo professor! Com carinho a você: *Boa tarde Tierri!* ♡
+| [Engenharia Reversa RPG](https://github.com/walbarellos/re-lab) | Um pequeno HUD gamificado para ensinar técnicas práticas/avançadas de Engenharia Reversa/Cybersegurança | HTML | CSS | JS |
 
 <p align="center">═════ ✦ ═════</p>
 
