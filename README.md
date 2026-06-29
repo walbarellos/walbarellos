@@ -72,7 +72,7 @@
 | [Fala Comigo](https://github.com/walbarellos/FalaComigo) | Aplicativo brasileiro de **Comunicação Aumentativa e Alternativa (CAA)** para pessoas com dificuldade de fala. |Kotlin| Jetpack Compose | Android |
 | [Acre-Processos-Licitatorios](https://github.com/walbarellos/Acre-Processos-Licitatorios) |  Sistema de Licitação integrado ao Portal de Licitações do Governo do Acre: [(https://licitacao.ac.gov.br/)] | Python |
 | [IRC-Server](https://github.com/walbarellos/IRC-Server) |Servidor IRC construído para ser o mais semelhante do saudoso Rizon.NET| - | Docker-based, multi-node, Shell |
-| [IRC-Bot](https://github.com/walbarellos/IRC-Bot) | - |Bot para servidor IRC, completamente personalizável.| Python |
+| [IRC-Bot](https://github.com/walbarellos/IRC-Bot)|Bot para servidor IRC, completamente personalizável.| Python |
 | [Sentinela](https://github.com/walbarellos/Sentinela) | Monitoramento - Recursos Acre / Rio Branco. | Python |
 | [Free-QRCode](https://github.com/walbarellos/Free-QRCode) | Create your Own QR-Code | TypeScript |
 | [shomer-OSINT](https://github.com/walbarellos/shomer-OSINT) | Shomer OSINT — Ferramenta de coleta e análise de comentários públicos do Facebook usando Selenium (Python/FastAPI) e vitrine interativa (Next.js/React). Permite capturar… | TypeScript |
