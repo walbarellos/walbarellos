@@ -1,9 +1,6 @@
 <div align="center">
 
-```
-$ whoami
-willian albarello (walbarellos)
-```
+### `whoami` → willian albarello / walbarellos
 
 **Software Engineer · Offensive Security · Reverse Engineering**
 
@@ -24,8 +21,8 @@ willian albarello (walbarellos)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Ghidra](https://img.shields.io/badge/-Ghidra-red?style=flat-square&logo=ghidra&logoColor=white)
-![Radare2](https://img.shields.io/badge/-radare2-black?style=flat-square)
+
+`Ghidra` `radare2` `pwndbg` `GDB`
 
 ---
 
@@ -33,9 +30,9 @@ willian albarello (walbarellos)
 
 | Projeto | Status | O quê |
 |---|---|---|
-| Igreja — Admin Web + APK | ativo | FastAPI · PostgreSQL · Kotlin/Compose · RBAC 5 papéis |
-| [Acre Acessível](https://github.com/walbarellos/Acre-Acessibilidade) | ativo | Widget de acessibilidade OSS · TTS cascade (edge-tts → Piper offline) |
-| Vigília | documentação | Marketplace de acompanhantes hospitalares · Supabase · Pagar.me escrow |
+| Igreja — Admin/APK | ativo | FastAPI · PostgreSQL · Kotlin/Compose · RBAC |
+| [Acre Acessível](https://github.com/walbarellos/Acre-Acessibilidade) | ativo | Widget A11y · TTS edge-tts → Piper (offline) |
+| Vigília | docs | Marketplace acompanhantes · Supabase · Pagar.me |
 
 ---
 
@@ -43,12 +40,12 @@ willian albarello (walbarellos)
 
 | Repo | Descrição | Stack |
 |---|---|---|
-| [Fala Comigo](https://github.com/walbarellos/FalaComigo) | CAA offline-first para pessoas com dificuldade de fala | Kotlin · Compose · Room · Hilt |
-| [RTSP-Scanner-Pro](https://github.com/walbarellos/RTSP-Scanner-Pro) | Motor de auditoria RTSP com aceleração GPU e interleaving global | Python · Shell |
-| [shomer-OSINT](https://github.com/walbarellos/shomer-OSINT) | Coleta e análise de comentários públicos via Selenium + vitrine web | Python · Next.js |
-| [Acre-Processos-Licitatorios](https://github.com/walbarellos/Acre-Processos-Licitatorios) | Integração com o Portal de Licitações do Governo do Acre | Python |
-| [IRC-Server](https://github.com/walbarellos/IRC-Server) | Servidor IRC multi-node inspirado no Rizon.NET | Docker |
-| [Sentinela](https://github.com/walbarellos/Sentinela) | Monitoramento de recursos — Acre / Rio Branco | Python |
+| [Fala Comigo](https://github.com/walbarellos/FalaComigo) | CAA offline-first | Kotlin · Compose · Room |
+| [RTSP-Scanner-Pro](https://github.com/walbarellos/RTSP-Scanner-Pro) | Auditoria RTSP com GPU | Python · Shell |
+| [shomer-OSINT](https://github.com/walbarellos/shomer-OSINT) | OSINT Facebook + vitrine web | Python · Next.js |
+| [Acre-Processos-Licitatorios](https://github.com/walbarellos/Acre-Processos-Licitatorios) | Integração Portal de Licitações-AC | Python |
+| [IRC-Server](https://github.com/walbarellos/IRC-Server) | Servidor IRC multi-node | Docker |
+| [Sentinela](https://github.com/walbarellos/Sentinela) | Monitoramento de recursos AC | Python |
 
 <details>
 <summary>mais</summary>
