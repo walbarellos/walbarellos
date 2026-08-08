@@ -30,11 +30,11 @@
 
 | Projeto | Status | O quê |
 |---|---|---|
-| Igreja — Admin/APK | ativo | FastAPI · PostgreSQL · Kotlin/Compose · RBAC |
+| SisClésia [Privado] — Admin/APK | ativo | FastAPI · PostgreSQL · Kotlin/Compose · RBAC |
 | [Acre Acessível](https://github.com/walbarellos/Acre-Acessibilidade) | ativo | Widget A11y · TTS edge-tts → Piper (offline) |
-| Vigília | docs | Marketplace acompanhantes · Supabase · Pagar.me |
+| Vigília [Privado] | docs | Marketplace · Supabase · Pagar.me |
 | [LexNode](https://github.com/walbarellos/LexNode) | Crawler p/ Tribunal do Justiça do Acre | FastAPI · Tailwind · BeautifulSoup · Cookie Injection |
-| [LexNode](https://github.com/walbarellos/GlyphWave) | Ferramenta Fourier/Perlin de engenharia de assets visuais gerados proceduralmente e renderizados no navegador |
+| [GlyphWave](https://github.com/walbarellos/GlyphWave) | Ferramenta Fourier/Perlin de engenharia de assets visuais gerados proceduralmente e renderizados no navegador |
 
 
 
@@ -49,7 +49,7 @@
 | [shomer-OSINT](https://github.com/walbarellos/shomer-OSINT) | OSINT Facebook + vitrine web | Python · Next.js |
 | [Acre-Processos-Licitatorios](https://github.com/walbarellos/Acre-Processos-Licitatorios) | Integração Portal de Licitações-AC | Python |
 | [IRC-Server](https://github.com/walbarellos/IRC-Server) | Servidor IRC multi-node | Docker |
-| [Sentinela](https://github.com/walbarellos/Sentinela) | Monitoramento de recursos AC | Python |
+| [Sentinela](https://github.com/walbarellos/Sentinela) | Monitoramento de recursos AC [Privado] | Python |
 
 <details>
 <summary>mais</summary>
