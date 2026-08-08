@@ -33,7 +33,9 @@
 | Igreja — Admin/APK | ativo | FastAPI · PostgreSQL · Kotlin/Compose · RBAC |
 | [Acre Acessível](https://github.com/walbarellos/Acre-Acessibilidade) | ativo | Widget A11y · TTS edge-tts → Piper (offline) |
 | Vigília | docs | Marketplace acompanhantes · Supabase · Pagar.me |
-| [LexNode](https://github.com/walbarellos/LexNode) | Crawler OSINT p/ Tribunal do Acre | FastAPI · Tailwind · BeautifulSoup · Cookie Injection |
+| [LexNode](https://github.com/walbarellos/LexNode) | Crawler p/ Tribunal do Justiça do Acre | FastAPI · Tailwind · BeautifulSoup · Cookie Injection |
+| [LexNode](https://github.com/walbarellos/GlyphWave) | Ferramenta Fourier/Perlin de engenharia de assets visuais gerados proceduralmente e renderizados no navegador |
+
 
 
 ---
