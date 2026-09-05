@@ -1,5 +1,7 @@
 <div align="center">
 
+<a rel="me" href="https://mastodon.social/@walbarellos">Mastodon</a>
+
 ### `whoami` → willian albarello / walbarellos
 
 **Software Engineer · Offensive Security · Reverse Engineering**
