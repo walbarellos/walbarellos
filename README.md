@@ -192,7 +192,7 @@ Projetos organizados por área, com links para o código ou para a aplicação q
 
 ---
 
-### 05 · Ferramentas e experimentos
+### 05 · Ferramentas autorais de uso pessoal e recorrente
 
 <table>
   <tr>
@@ -235,7 +235,7 @@ Projetos organizados por área, com links para o código ou para a aplicação q
     <td>
       <strong><a href="https://github.com/walbarellos/ViraDez">ViraDez</a></strong>
       <br><br>
-      Calculadora científica para Android.
+      Calculadora científica para Android. Resolve Matrizes de até 4°Ordem, Divisões Complexas.
       <br><br>
       <sub>Kotlin</sub>
     </td>
