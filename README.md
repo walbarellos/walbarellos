@@ -1,74 +1,238 @@
-<div align="center">
-
-<a rel="me" href="https://mastodon.social/@walbarellos">Mastodon</a>
-
-### `whoami` → willian albarello / walbarellos
-
-**Software Engineer · Offensive Security · Reverse Engineering**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-walbarellos--paper-000000?style=flat-square&logo=vercel&logoColor=white)](https://walbarellos-paper.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-walbarello-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/walbarello/)
-
+ <div align="center">
+  <h1>Willian Albarello</h1>
+  <p><strong>Software Engineering · I love Reverse Engineering</strong></p>
+  <p><a href="https://walbarellos.is-a.dev/">Portfólio</a> · <a href="https://www.linkedin.com/in/walbarello/">LinkedIn</a> · <a href="https://qoto.org/@wepiphany">Mastodon</a></p>
 </div>
 
----
+## Sobre
 
-### Stack
+Desenvolvo software, ferramentas de análise e projetos experimentais. Meu trabalho passa por dados públicos, sistemas institucionais, OSINT, segurança, acessibilidade e engenharia reversa.
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+Atualmente estou responsável por vários projetos em diferentes estágios de desenvolvimento, desde ferramentas de linha de comando e aplicações offline até sistemas web, aplicativos Android e jogos independentes.
 
-`Ghidra` `radare2` `pwndbg` `GDB`
+## Projetos em destaque
 
----
+### Política, Estado e OSINT
 
-### Agora
+`Python`
 
-| Projeto | Status | O quê |
-|---|---|---|
-| SisClésia [Privado] — Admin/APK | ativo | FastAPI · PostgreSQL · Kotlin/Compose · RBAC |
-| [Acre Acessível](https://github.com/walbarellos/Acre-Acessibilidade) | ativo | Widget A11y · TTS edge-tts → Piper (offline) |
-| Vigília [Privado] | docs | Marketplace · Supabase · Pagar.me |
-| [LexNode](https://github.com/walbarellos/LexNode) | Crawler p/ Tribunal do Justiça do Acre | FastAPI · Tailwind · BeautifulSoup · Cookie Injection |
-| [GlyphWave](https://github.com/walbarellos/GlyphWave) | Ferramenta Fourier/Perlin de engenharia de assets visuais gerados proceduralmente e renderizados no navegador |
+**[LexNode](https://github.com/walbarellos/LexNode)**  
+Coleta automatizada de informações do Tribunal de Justiça do Acre.
 
+`FastAPI` `Python` `Selenium` `Next.js` `React` `postgree`
+**[shomer-OSINT](https://github.com/walbarellos/shomer-OSINT)**  
+Ferramentas de OSINT e uma interface web para trabalhar com informações públicas.
 
+`Python` `Next.js`
 
----
+**[Acre-Processos-Licitatorios](https://github.com/walbarellos/Acre-Processos-Licitatorios)**  
+Integração com o portal de licitações do Acre para trabalhar com dados de processos licitatórios.
 
-### Projetos
+`FastAPI` `BeautifulSoup` `Tailwind CSS`
 
-| Repo | Descrição | Stack |
-|---|---|---|
-| [Fala Comigo](https://github.com/walbarellos/FalaComigo) | CAA offline-first | Kotlin · Compose · Room |
-| [RTSP-Scanner-Pro](https://github.com/walbarellos/RTSP-Scanner-Pro) | Auditoria RTSP com GPU | Python · Shell |
-| [shomer-OSINT](https://github.com/walbarellos/shomer-OSINT) | OSINT Facebook + vitrine web | Python · Next.js |
-| [Acre-Processos-Licitatorios](https://github.com/walbarellos/Acre-Processos-Licitatorios) | Integração Portal de Licitações-AC | Python |
-| [IRC-Server](https://github.com/walbarellos/IRC-Server) | Servidor IRC multi-node | Docker |
-| [Sentinela](https://github.com/walbarellos/Sentinela) | Monitoramento de recursos AC [Privado] | Python |
+**Eloisy — adaptação para o Acre**  
+Adaptação do projeto de YuriDev para o contexto acreano, com desenvolvimento direcionado às necessidades locais. O projeto original não é de minha autoria.
 
-<details>
-<summary>mais</summary>
+**Sentinela**  
+Sistema funcional de monitoramento de recursos, com integração planejada ao Eloisy.
 
-| Repo | Descrição | Stack |
-|---|---|---|
-| [IRC-Bot](https://github.com/walbarellos/IRC-Bot) | Bot modular para servidor IRC | Python |
-| [Youtube-Transcript](https://github.com/walbarellos/Youtube-Transcript) | Transcrição de vídeo para TXT/PDF | Python |
-| [Free-QRCode](https://github.com/walbarellos/Free-QRCode) | Gerador de QR Code | TypeScript |
-| [ViraDez](https://github.com/walbarellos/ViraDez) | Calculadora científica | Kotlin |
+### Sistemas institucionais
 
-</details>
+Desenvolvimento de sistemas para serviços e operações institucionais. Os projetos abaixo são confidenciais; as descrições se limitam à sua finalidade geral.
 
----
+- **PortalFEM** — portal institucional da FEM.
+- **OficialGVC** — sistema para as bibliotecas do Estado.
+- **DockerGVC** — sistema para gestão da locação de espaços culturais, incluindo auditórios.
 
-<div align="center">
+O código, a arquitetura interna e os detalhes operacionais desses sistemas não são divulgados publicamente.
 
-![GitHub Streak](https://img.shields.io/github/last-commit/walbarellos/walbarellos?style=flat-square&label=last%20commit)
+### Segurança e sistemas
 
+**[RTSP-Scanner-Pro](https://github.com/walbarellos/RTSP-Scanner-Pro)**  
+Ferramenta para auditoria de serviços RTSP, com recursos de análise e processamento por GPU.
+
+`Python` `Shell`
+
+**[IRC-Server](https://github.com/walbarellos/IRC-Server)**  
+Servidor IRC com arquitetura multinó.
+
+`Docker`
+
+**[IRC-Bot](https://github.com/walbarellos/IRC-Bot)**  
+Bot modular para IRC.
+
+`Python`
+
+### Acessibilidade
+
+**[Acre Acessível](https://github.com/walbarellos/Acre-Acessibilidade)**  
+Projeto de acessibilidade digital com recursos de síntese de voz e alternativas para execução offline.
+
+**[Fala Comigo](https://github.com/walbarellos/FalaComigo)**  
+Aplicativo de comunicação aumentativa e alternativa que funciona offline, sem exigir conta ou coleta de dados do usuário.
+
+`Kotlin` `Jetpack Compose` `Room`
+
+### Ferramentas e experimentos
+
+**[GlyphWave](https://github.com/walbarellos/GlyphWave)**  
+Experimentos de geração procedural de recursos visuais com transformadas de Fourier e ruído de Perlin.
+
+`TypeScript`
+
+**[Youtube-Transcript](https://github.com/walbarellos/Youtube-Transcript)**  
+Ferramenta para converter transcrições de vídeos em arquivos TXT e PDF.
+
+`Python`
+
+**[Free-QRCode](https://github.com/walbarellos/Free-QRCode)**  
+Gerador de códigos QR.
+
+`TypeScript`
+
+**[ViraDez](https://github.com/walbarellos/ViraDez)**  
+Calculadora científica para Android.
+
+`Kotlin`
+
+## Tecnologias
+
+**Linguagens**  
+Python · C++ · TypeScript · Kotlin · Shell
+
+**Backend e dados**  
+FastAPI · PostgreSQL · Supabase · SQLite
+
+**Web e mobile**  
+React · Next.js · Tailwind CSS · Jetpack Compose
+
+**Infraestrutura**  
+Linux · Docker
+
+**Engenharia reversa e depuração**  
+Ghidra · radare2 · GDB · pwndbg
+
+## Contato
+
+- Portfólio: https://walbarellos.is-a.dev/
+- GitHub: https://github.com/walbarellos
+- LinkedIn: https://www.linkedin.com/in/walbarello/
+- Mastodon: https://qoto.org/@wepiphany <div align="center">
+  <h1>Willian Albarello</h1>
+  <p><strong>Software Engineering · Offensive Security · Reverse Engineering</strong></p>
+  <p><a href="https://walbarellos.is-a.dev/">Portfólio</a> · <a href="https://www.linkedin.com/in/walbarello/">LinkedIn</a> · <a href="https://qoto.org/@wepiphany">Mastodon</a></p>
 </div>
+
+## Sobre
+
+Desenvolvo software, ferramentas de análise e projetos experimentais. Meu trabalho passa por dados públicos, sistemas institucionais, OSINT, segurança, acessibilidade e engenharia reversa.
+
+Mantenho projetos em diferentes estágios de desenvolvimento, desde ferramentas de linha de comando e aplicações offline até sistemas web, aplicativos Android e jogos independentes.
+
+## Projetos em destaque
+
+### Política, Estado e OSINT
+
+**[shomer-OSINT](https://github.com/walbarellos/shomer-OSINT)**  
+Ferramentas de OSINT e uma interface web para trabalhar com informações públicas.
+
+`Python` `Next.js`
+
+**[Acre-Processos-Licitatorios](https://github.com/walbarellos/Acre-Processos-Licitatorios)**  
+Integração com o portal de licitações do Acre para trabalhar com dados de processos licitatórios.
+
+`Python`
+
+**[LexNode](https://github.com/walbarellos/LexNode)**  
+Coleta automatizada de informações do Tribunal de Justiça do Acre.
+
+`FastAPI` `BeautifulSoup` `Tailwind CSS`
+
+**Eloisy — adaptação para o Acre**  
+Adaptação do projeto de YuriDev para o contexto acreano, com desenvolvimento direcionado às necessidades locais. O projeto original não é de minha autoria.
+
+**Sentinela**  
+Sistema funcional de monitoramento de recursos, com integração planejada ao Eloisy.
+
+### Sistemas institucionais
+
+Desenvolvimento de sistemas para serviços e operações institucionais. Os projetos abaixo são confidenciais; as descrições se limitam à sua finalidade geral.
+
+- **PortalFEM** — portal institucional da FEM.
+- **OficialGVC** — sistema para as bibliotecas do Estado.
+- **DockerGVC** — sistema para gestão da locação de espaços culturais, incluindo auditórios.
+
+O código, a arquitetura interna e os detalhes operacionais desses sistemas não são divulgados publicamente.
+
+### Segurança e sistemas
+
+**[RTSP-Scanner-Pro](https://github.com/walbarellos/RTSP-Scanner-Pro)**  
+Ferramenta para auditoria de serviços RTSP, com recursos de análise e processamento por GPU.
+
+`Python` `Shell`
+
+**[IRC-Server](https://github.com/walbarellos/IRC-Server)**  
+Servidor IRC com arquitetura multinó.
+
+`Docker`
+
+**[IRC-Bot](https://github.com/walbarellos/IRC-Bot)**  
+Bot modular para IRC.
+
+`Python`
+
+### Acessibilidade
+
+**[Acre Acessível](https://github.com/walbarellos/Acre-Acessibilidade)**  
+Projeto de acessibilidade digital com recursos de síntese de voz e alternativas para execução offline.
+
+**[Fala Comigo](https://github.com/walbarellos/FalaComigo)**  
+Aplicativo de comunicação aumentativa e alternativa que funciona offline, sem exigir conta ou coleta de dados do usuário.
+
+`Kotlin` `Jetpack Compose` `Room`
+
+### Ferramentas e experimentos
+
+**[GlyphWave](https://github.com/walbarellos/GlyphWave)**  
+Experimentos de geração procedural de recursos visuais com transformadas de Fourier e ruído de Perlin.
+
+`TypeScript`
+
+**[Youtube-Transcript](https://github.com/walbarellos/Youtube-Transcript)**  
+Ferramenta para converter transcrições de vídeos em arquivos TXT e PDF.
+
+`Python`
+
+**[Free-QRCode](https://github.com/walbarellos/Free-QRCode)**  
+Gerador de códigos QR.
+
+`TypeScript`
+
+**[ViraDez](https://github.com/walbarellos/ViraDez)**  
+Calculadora científica para Android.
+
+`Kotlin`
+
+## Tecnologias
+
+**Linguagens**  
+Python · C++ · TypeScript · Kotlin · Shell
+
+**Backend e dados**  
+FastAPI · PostgreSQL · Supabase · SQLite
+
+**Web e mobile**  
+React · Next.js · Tailwind CSS · Jetpack Compose
+
+**Infraestrutura**  
+Linux · Docker
+
+**Engenharia reversa e depuração**  
+Ghidra · radare2 · GDB · pwndbg
+
+## Contato
+
+- Portfólio: https://walbarellos.is-a.dev/
+- GitHub: https://github.com/walbarellos
+- LinkedIn: https://www.linkedin.com/in/walbarello/
+- Mastodon: https://qoto.org/@wepiphany
