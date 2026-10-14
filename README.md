@@ -21,109 +21,226 @@ Tenho projetos próprios, adaptações de projetos existentes e sistemas institu
 
 ## Projetos em destaque
 
-### Política, Estado e OSINT
+## Projetos
 
+Projetos organizados por área, com links para o código ou para a aplicação quando disponíveis.
 
-`Python` `FastAPI` `Selenium` `Next.js` `React` `PostgreSQL`
+---
 
-**[LexNode](https://github.com/walbarellos/LexNode)** · [Abrir aplicação ↗](https://lexnode.onrender.com/)
+### 01 · Política, Estado e OSINT
 
-Coleta automatizada de informações do Tribunal de Justiça do Acre, com interface web para consulta.
+<table>
+  <tr>
+    <td>
+      <strong><a href="https://github.com/walbarellos/LexNode">LexNode</a></strong>
+      <br><br>
+      Coleta automatizada de informações do Tribunal de Justiça do Acre.
+      <br><br>
+      <a href="https://lexnode.onrender.com/"><img src="https://img.shields.io/badge/Abrir_aplicação-238636?style=flat-square" alt="Abrir aplicação"></a>
+      <a href="https://github.com/walbarellos/LexNode"><img src="https://img.shields.io/badge/Código-fonte-444444?style=flat-square" alt="Código-fonte"></a>
+      <br><br>
+      <sub>Python · FastAPI · Selenium · Next.js · React · PostgreSQL</sub>
+    </td>
+  </tr>
+</table>
 
-<p>
-  <a href="https://lexnode.onrender.com/"><img src="https://img.shields.io/badge/Live_Demo-Online-238636?style=flat-square&logo=render&logoColor=white" alt="Demonstração online"></a>
-  <a href="https://github.com/walbarellos/LexNode"><img src="https://img.shields.io/badge/Source_Code-GitHub-18181b?style=flat-square&logo=github&logoColor=white" alt="Código-fonte"></a>
-</p>
+<table>
+  <tr>
+    <td>
+      <strong><a href="https://github.com/walbarellos/shomer-OSINT">shomer-OSINT</a></strong>
+      <br><br>
+      Ferramentas de OSINT e interface web para trabalhar com informações públicas.
+      <br><br>
+      <sub>Python · Next.js</sub>
+    </td>
+  </tr>
+</table>
 
-`Python` `FastAPI` `Selenium` `PostgreSQL`
+<table>
+  <tr>
+    <td>
+      <strong><a href="https://github.com/walbarellos/Acre-Processos-Licitatorios">Acre-Processos-Licitatorios</a></strong>
+      <br><br>
+      Integração com o portal de licitações do Acre para trabalhar com dados de processos licitatórios.
+      <br><br>
+      <sub>Python</sub>
+    </td>
+  </tr>
+</table>
 
-**[shomer-OSINT](https://github.com/walbarellos/shomer-OSINT)**
+<table>
+  <tr>
+    <td>
+      <strong>Eloisy — adaptação para o Acre</strong>
+      <br><br>
+      Adaptação do projeto de YuriDev para o contexto acreano. O projeto original é de outra autoria.
+    </td>
+  </tr>
+</table>
 
-Ferramentas de OSINT e interface web para trabalhar com informações públicas.
+<table>
+  <tr>
+    <td>
+      <strong>Sentinela</strong>
+      <br><br>
+      Sistema funcional de monitoramento de recursos, com integração planejada ao Eloisy.
+    </td>
+  </tr>
+</table>
 
-`Python` `Next.js`
+---
 
-**[Acre-Processos-Licitatorios](https://github.com/walbarellos/Acre-Processos-Licitatorios)**
+### 02 · Sistemas institucionais
 
-Integração com o portal de licitações do Acre para trabalhar com dados de processos licitatórios.
+<sub>Projetos confidenciais; descrições limitadas à finalidade geral.</sub>
 
-`Python`
+<table>
+  <tr>
+    <td>
+      <strong>PortalFEM</strong>
+      <br><br>
+      Portal institucional da FEM.
+    </td>
+  </tr>
+</table>
 
-**Eloisy — adaptação para o Acre**
+<table>
+  <tr>
+    <td>
+      <strong>OficialGVC</strong>
+      <br><br>
+      Sistema de gestão das bibliotecas do Estado.
+    </td>
+  </tr>
+</table>
 
-Adaptação do projeto de YuriDev para o contexto acreano. O projeto original é de outra autoria; meu trabalho está na adaptação direcionada à realidade local.
+<table>
+  <tr>
+    <td>
+      <strong>DockerGVC</strong>
+      <br><br>
+      Sistema para gestão da locação de espaços culturais, incluindo auditórios.
+    </td>
+  </tr>
+</table>
 
-**Sentinela**
+---
 
-Sistema funcional de monitoramento de recursos. Está prevista sua integração com o Eloisy.
+### 03 · Segurança e sistemas
 
-### Sistemas institucionais
+<table>
+  <tr>
+    <td>
+      <strong><a href="https://github.com/walbarellos/RTSP-Scanner-Pro">RTSP-Scanner-Pro</a></strong>
+      <br><br>
+      Ferramenta de auditoria de serviços RTSP, com recursos de análise e processamento por GPU.
+      <br><br>
+      <sub>Python · Shell</sub>
+    </td>
+  </tr>
+</table>
 
-Atuação no desenvolvimento de sistemas institucionais cujos detalhes técnicos não são públicos.
+<table>
+  <tr>
+    <td>
+      <strong><a href="https://github.com/walbarellos/IRC-Server">IRC-Server</a></strong>
+      <br><br>
+      Servidor IRC com arquitetura multinó.
+      <br><br>
+      <sub>Docker</sub>
+    </td>
+  </tr>
+</table>
 
-- **PortalFEM** — portal institucional da FEM.
-- **OficialGVC** — sistema de gestão das bibliotecas do Estado.
-- **DockerGVC** — sistema de gestão da locação de espaços culturais, como auditórios.
+<table>
+  <tr>
+    <td>
+      <strong><a href="https://github.com/walbarellos/IRC-Bot">IRC-Bot</a></strong>
+      <br><br>
+      Bot modular para IRC.
+      <br><br>
+      <sub>Python</sub>
+    </td>
+  </tr>
+</table>
 
-Os repositórios, a arquitetura e os detalhes operacionais desses sistemas não são apresentados aqui.
+---
 
-### Segurança e sistemas
+### 04 · Acessibilidade
 
-**[RTSP-Scanner-Pro](https://github.com/walbarellos/RTSP-Scanner-Pro)**
+<table>
+  <tr>
+    <td>
+      <strong><a href="https://github.com/walbarellos/Acre-Acessibilidade">Acre Acessível</a></strong>
+      <br><br>
+      Projeto de acessibilidade digital com recursos de síntese de voz e alternativas para execução offline.
+    </td>
+  </tr>
+</table>
 
-Ferramenta de auditoria de serviços RTSP, com recursos de análise e processamento por GPU.
+<table>
+  <tr>
+    <td>
+      <strong><a href="https://github.com/walbarellos/FalaComigo">Fala Comigo</a></strong>
+      <br><br>
+      Aplicativo de comunicação aumentativa e alternativa que funciona offline.
+      <br><br>
+      <sub>Kotlin · Jetpack Compose · Room</sub>
+    </td>
+  </tr>
+</table>
 
-`Python` `Shell`
+---
 
-**[IRC-Server](https://github.com/walbarellos/IRC-Server)**
+### 05 · Ferramentas e experimentos
 
-Implementação de servidor IRC com arquitetura multinó.
+<table>
+  <tr>
+    <td>
+      <strong><a href="https://github.com/walbarellos/GlyphWave">GlyphWave</a></strong>
+      <br><br>
+      Geração procedural de recursos visuais com transformadas de Fourier e ruído de Perlin.
+      <br><br>
+      <sub>TypeScript</sub>
+    </td>
+  </tr>
+</table>
 
-`Docker`
+<table>
+  <tr>
+    <td>
+      <strong><a href="https://github.com/walbarellos/Youtube-Transcript">Youtube-Transcript</a></strong>
+      <br><br>
+      Conversão de transcrições de vídeos em arquivos TXT e PDF.
+      <br><br>
+      <sub>Python</sub>
+    </td>
+  </tr>
+</table>
 
-**[IRC-Bot](https://github.com/walbarellos/IRC-Bot)**
+<table>
+  <tr>
+    <td>
+      <strong><a href="https://github.com/walbarellos/Free-QRCode">Free-QRCode</a></strong>
+      <br><br>
+      Gerador de códigos QR.
+      <br><br>
+      <sub>TypeScript</sub>
+    </td>
+  </tr>
+</table>
 
-Bot modular para IRC.
-
-`Python`
-
-### Acessibilidade
-
-**[Acre Acessível](https://github.com/walbarellos/Acre-Acessibilidade)**
-
-Projeto de acessibilidade digital com recursos de síntese de voz e alternativas para execução offline.
-
-**[Fala Comigo](https://github.com/walbarellos/FalaComigo)**
-
-Aplicativo de comunicação aumentativa e alternativa, desenvolvido para funcionar offline, sem exigir conta ou coleta de dados do usuário.
-
-`Kotlin` `Jetpack Compose` `Room`
-
-### Ferramentas e experimentos
-
-**[GlyphWave](https://github.com/walbarellos/GlyphWave)**
-
-Experimentos com geração procedural de recursos visuais usando transformadas de Fourier e ruído de Perlin.
-
-`TypeScript`
-
-**[Youtube-Transcript](https://github.com/walbarellos/Youtube-Transcript)**
-
-Ferramenta para converter transcrições de vídeos em arquivos TXT e PDF.
-
-`Python`
-
-**[Free-QRCode](https://github.com/walbarellos/Free-QRCode)**
-
-Gerador de códigos QR.
-
-`TypeScript`
-
-**[ViraDez](https://github.com/walbarellos/ViraDez)**
-
-Calculadora científica para Android.
-
-`Kotlin`
+<table>
+  <tr>
+    <td>
+      <strong><a href="https://github.com/walbarellos/ViraDez">ViraDez</a></strong>
+      <br><br>
+      Calculadora científica para Android.
+      <br><br>
+      <sub>Kotlin</sub>
+    </td>
+  </tr>
+</table>
 
 ## Tecnologias
 
