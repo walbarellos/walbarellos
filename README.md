@@ -1,7 +1,7 @@
  <div align="center">
   <h1>Willian Albarello</h1>
   <p><strong>Software Engineering · I love Reverse Engineering</strong></p>
-  <p><a href="https://walbarellos.is-a.dev/">Portfólio</a> · <a href="https://www.linkedin.com/in/walbarello/">LinkedIn</a> · <a href="https://qoto.org/@wepiphany">Mastodon</a></p>
+  <p><a href="https://walbarellos.is-a.dev/">Portfólio</a> · <a href="https://www.linkedin.com/in/walbarello/">LinkedIn</a> · <a href="[https://mastodon.social/@walbarellos]">Mastodon</a></p>
 </div>
 
 ## Sobre
