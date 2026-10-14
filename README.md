@@ -23,9 +23,17 @@ Tenho projetos próprios, adaptações de projetos existentes e sistemas institu
 
 ### Política, Estado e OSINT
 
-**[LexNode](https://github.com/walbarellos/LexNode)**
 
-Coleta automatizada de informações do Tribunal de Justiça do Acre.
+`Python` `FastAPI` `Selenium` `Next.js` `React` `PostgreSQL`
+
+**[LexNode](https://github.com/walbarellos/LexNode)** · [Abrir aplicação ↗](https://lexnode.onrender.com/)
+
+Coleta automatizada de informações do Tribunal de Justiça do Acre, com interface web para consulta.
+
+<p>
+  <a href="https://lexnode.onrender.com/"><img src="https://img.shields.io/badge/Live_Demo-Online-238636?style=flat-square&logo=render&logoColor=white" alt="Demonstração online"></a>
+  <a href="https://github.com/walbarellos/LexNode"><img src="https://img.shields.io/badge/Source_Code-GitHub-18181b?style=flat-square&logo=github&logoColor=white" alt="Código-fonte"></a>
+</p>
 
 `Python` `FastAPI` `Selenium` `PostgreSQL`
 
