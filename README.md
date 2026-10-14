@@ -21,9 +21,7 @@ Tenho projetos próprios, adaptações de projetos existentes e sistemas institu
 
 ## Projetos em destaque
 
-## Projetos
-
-Projetos organizados por área, com links para o código ou para a aplicação quando disponíveis.
+organizados por área, com links para o código ou para a aplicação quando disponíveis.
 
 ---
 
