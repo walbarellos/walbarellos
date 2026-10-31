@@ -27,6 +27,15 @@ Foco em arquiteturas robustas, offline-first, performance nativa e conformidade 
 <table>
   <tr>
     <td>
+      <strong><a href="https://github.com/walbarellos/volt-steth">VoltSteth</a></strong>
+      <br><br>
+      Estetoscópio de baixo nível para diagnóstico físico e elétrico no Linux. Mapeia a topologia do hardware (ALSA, xHCI, PCIe), detecta loops de terra via algoritmo de Goertzel (harmônicas de 60Hz/120Hz com janela de Hann) e correlação de ruído EMI com comutação de CPU/GPU em C++20 com UI nativa em GTK4/Libadwaita.
+      <br><br>
+      <sub>C++20 · DSP · GTK4 / Libadwaita · Linux Kernel · ALSA · CMake</sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <strong><a href="https://github.com/walbarellos/kdeconnect-omarchy">KDE Connect Omarchy</a></strong>
       <br><br>
       Módulo nativo de engenharia de sistemas em C++20 que integra e viabiliza a execução do KDE Connect sob o ecossistema Wayland no desktop Linux.
